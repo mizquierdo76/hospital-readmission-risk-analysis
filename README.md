@@ -1,6 +1,6 @@
 # Hospital Readmission Project
 
-This is a fast portfolio project designed to match the kind of healthcare analytics Premier asked for:
+This is a portfolio project designed to match the kind of healthcare analytics Premier asked for:
 - healthcare data analytics
 - relational databases
 - Python
