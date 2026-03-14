@@ -27,7 +27,7 @@ These findings demonstrate how healthcare data analytics can help hospitals iden
 ![Readmission by Race](readmission_by_race_chart.png)
 
 ### Diagnoses with Highest Readmission Rates
-![Diagnosis Readmission](top_diagnosis_readmission_chart.png)
+![Diagnosis Readmission](top_diag_readmission.png)
 
 
 ## What to download
