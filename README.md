@@ -20,6 +20,7 @@ These findings demonstrate how healthcare data analytics can help hospitals iden
 
 ## Data Visualizations
 
+
 ### Readmission Rate by Age
 ![Readmission by Age](readmission_by_age_chart.png)
 
