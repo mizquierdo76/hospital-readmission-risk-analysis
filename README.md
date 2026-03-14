@@ -29,6 +29,3 @@ These findings demonstrate how healthcare data analytics can help hospitals iden
 ### Diagnoses with Highest Readmission Rates
 ![Diagnosis Readmission](top_diag_readmission.png)
 
-
-## Suggested project title
-**Hospital Readmission Risk Modeling Using U.S. Healthcare Data**
