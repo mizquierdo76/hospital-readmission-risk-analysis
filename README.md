@@ -23,6 +23,13 @@ analytics can help hospitals identify high-risk patients before discharge.
 This project analyzes factors associated with hospital readmission and
 builds a predictive model to identify high-risk patients using Python.
 
+## Tools Used
+
+- Python (Pandas, Scikit-learn)
+- SQL
+- Tableau
+- Healthcare dataset analytics
+
 This project demonstrates core healthcare data analytics skills including:
 
 • Healthcare data analysis and visualization
